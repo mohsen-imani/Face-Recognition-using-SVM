@@ -1,4 +1,4 @@
-# Support vector machines for face recognition:
+# Support Vector Machines for face recognition:
 
 Face recognition is a learning problem that has recently received a lot of attention. Support Vector Machines (SVM) are becoming very popular in the machine learning community as a technique for tackling high-dimensional problems. We implement the SVM algorithm as a face recognition tool. 
 
